@@ -6,7 +6,7 @@
 
 <ol>
 <li> install python3 and pip3</li>
-<li> pip3 install selenium</li>
+<li> python3 -m install selenium</li>
 <li> install webdriver (idk if needed)</li>
 <li> edit ".env.example" and save it as ".env"</li>
 <li> save your meetings in meetings.json</li>
